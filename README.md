@@ -6,7 +6,7 @@ UC Berkeley Extension Data Analytics Boot Camp Module 6
 
 In this challenge, we were tasked with using Google Maps API data to generage a travel itinerary. In order to do this, we broke up the tasks into three parts:
 
-#### Part 1:Get the Weather Description and Amount of Precipitation for Each City
+#### Part 1: Get the Weather Description and Amount of Precipitation for Each City
 
 To determine a vacation plan, we first generated a list of random cities and extracted weather data for them from OpenWeatherMap.com. From there, we saved the data into a CSV file that would later be used to determine cities that we could visit on vacation.
 
